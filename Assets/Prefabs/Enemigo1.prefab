@@ -578,6 +578,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Agente: {fileID: 376150155954047031}
   Posicion: {x: 0, y: 0.7, z: 10.5}
+  pausePanel: {fileID: 0}
 --- !u!114 &8029089926432516089
 MonoBehaviour:
   m_ObjectHideFlags: 0

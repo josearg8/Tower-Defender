@@ -21,6 +21,7 @@ public class PlayerHealth : MonoBehaviour
                 gameOverPanel.SetActive(true);
 
                 EnemyMv.pause = true;
+                
                 Time.timeScale = 0;
             }
         }
